@@ -2,7 +2,7 @@ import random
 import string
 
 # Class for generating passwords with various options
-class PasswordGenerator:
+class PasswordGenerator
   def __init__(self, length, use_uppercase, use_special_chars, pass_number):
     self.length = length  # Length of each password
     self.use_uppercase = use_uppercase  # Whether to include uppercase letters
