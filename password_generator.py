@@ -1,5 +1,5 @@
 import random
-import strin
+import string
 
 # Class for generating passwords with various options
 class PasswordGenerator:
