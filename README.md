@@ -17,7 +17,7 @@
 6. The generated passwords are displayed on the screen.  
 
 ## Usage  
-Run the script and follow the prompts to generate customized passwords.  
+Run the script and follow the prompts to generate customized passwords.   
 
 ## Requirements  
 - Python 3.x  
