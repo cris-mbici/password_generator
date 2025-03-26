@@ -3,7 +3,7 @@
 . This Python script generates secure passwords based on user preferences. It allows users to customize password length, include uppercase letters, special characters, and specify the number of passwords to generate.  
 
 ## Features  
-- Generate passwords with a specified length  
+- Generate passwords with a specified length 
 - Option to include uppercase letters  
 - Option to include special characters  
 - Generate multiple passwords at once  
