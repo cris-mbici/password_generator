@@ -2,7 +2,7 @@
 [Watch the demo](https://github.com/cris-mbici/password_generator/raw/main/password_demo.mp4)
 . This Python script generates secure passwords based on user preferences. It allows users to customize password length, include uppercase letters, special characters, and specify the number of passwords to generate.  
 
-## Features  
+## Features   
 - Generate passwords with a specified length 
 - Option to include uppercase letters  
 - Option to include special characters  
