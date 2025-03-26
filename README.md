@@ -9,7 +9,7 @@
 - Generate multiple passwords at once  
 
 ## How It Works  
-1. The script prompts the user to enter the desired password length.  
+1. The script prompts the user to enter the desired password length.   
 2. The user is asked whether they want to include uppercase letters.  
 3. The user is asked whether they want to include special characters.  
 4. The user specifies the number of passwords to generate.  
