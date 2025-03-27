@@ -1,4 +1,4 @@
-import random
+import random 
 import string
 
 # Class for generating passwords with various options
